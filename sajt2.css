@@ -1,0 +1,61 @@
+.nav a {
+  color: peru;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 20px 10px;
+  text-transform: uppercase;
+}
+
+.nav select {
+	color: peru;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 10px 5px;
+  text-transform: uppercase;	
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('http://eleonoracbastos.com/wp-content/uploads/2015/08/Manifest-Friends.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: darkolivegreen;
+  font-size: 50px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 25px;
+  color: darkolivegreen;
+}
+
+.jumbotron a {
+	color: darkolivegreen;
+}
+
+.learn-more {
+  background-color: khaki;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: sienna;
+}
